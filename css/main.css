@@ -75,7 +75,7 @@ form button {
   padding: 0;
 }
 
-.skip-links b {
+.skip-links b  {
   position: absolute;
   top: -3rem;
   background-color: black;
@@ -84,6 +84,6 @@ form button {
   font-weight: bold;
 }
 
-.skip-links a:focus{
+.skip-links b:focus{
   top: 0;
 }
